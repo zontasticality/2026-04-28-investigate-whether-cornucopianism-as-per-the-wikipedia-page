@@ -1,0 +1,158 @@
+{
+  "session": {
+    "title": "Cornucopianism vs. Simonism: Does Wikipedia misrepresent Julian Simon?",
+    "date": "2026-04-28",
+    "question": "Does cornucopianism as described on Wikipedia conflict with a closer reading of Julian Simon, whose actual position may be that the category of 'natural resource' is incoherent (they're just resources), not simply that we will not run out?",
+    "github_repo": "zontasticality/2026-04-28-investigate-whether-cornucopianism-as-per-the-wikipedia-page",
+    "pages_url": "https://zontasticality.github.io/2026-04-28-investigate-whether-cornucopianism-as-per-the-wikipedia-page"
+  },
+  "sources": [
+    {
+      "id": 1,
+      "title": "The Ultimate Resource 2",
+      "authors": [
+        "Julian Lincoln Simon"
+      ],
+      "year": 1996,
+      "doi": null,
+      "pmid": null,
+      "journal": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "type": "book",
+      "found_via": "anna-mcp book search for 'Julian Simon The Ultimate Resource'",
+      "download": {
+        "hash": "91b0468a7b533c7c458597654f76c8f9",
+        "format": "epub",
+        "filename": "The Ultimate Resource 2 - Julian Simon.epub"
+      },
+      "status": "read-full",
+      "status_detail": "Deep-read via sub-agent. Key findings: Simon explicitly rejects cornucopian label; argues resources are services not substances; finiteness is a category error; resources are human-created not nature-given",
+      "relevance_level": "VERY HIGH",
+      "relevance": "Primary source for Simon's actual position on resources, human ingenuity, and what constitutes a 'resource'",
+      "html_filename": "The Ultimate Resource 2 - Julian Simon.html",
+      "crossref_enriched": false
+    },
+    {
+      "id": 2,
+      "title": "Cornucopianism (Wikipedia)",
+      "authors": [
+        "Wikipedia contributors"
+      ],
+      "year": 2026,
+      "doi": null,
+      "pmid": null,
+      "journal": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Cornucopianism",
+      "found_via": "Direct fetch — the Wikipedia page the research question references",
+      "download": null,
+      "status": "read-full",
+      "status_detail": "Defines cornucopianism as belief that technology ensures unlimited supply; calls Simon 'one of the best-known cornucopian thinkers'; doesn't distinguish Simon's nuanced position from broader label",
+      "relevance_level": "VERY HIGH",
+      "relevance": "The target of the research question — does this page accurately represent Simon?",
+      "html_filename": null,
+      "crossref_enriched": false
+    },
+    {
+      "id": 3,
+      "title": "There Are No Natural Resources (Boudreaux on Simon's 'ultimate resource')",
+      "authors": [
+        "Donald J. Boudreaux"
+      ],
+      "year": null,
+      "doi": null,
+      "pmid": null,
+      "journal": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "type": "web-article",
+      "url": "https://www.masterresource.org/simon-julian/there-are-no-natural-resources-boudreaux-on-simons-ultimate-resource/",
+      "found_via": "Web search for Simon's views on natural resources as a category",
+      "download": null,
+      "status": "read-full",
+      "status_detail": "Boudreaux argues Simon's position is that materials only become 'resources' through human creativity — nature creates materials, not resources",
+      "relevance_level": "VERY HIGH",
+      "relevance": "Directly articulates the 'Simonist' view that the category of natural resource is incoherent — closest to the research question's thesis",
+      "html_filename": null,
+      "crossref_enriched": false
+    },
+    {
+      "id": 4,
+      "title": "There Are No Natural Resources",
+      "authors": [
+        "Donald J. Boudreaux"
+      ],
+      "year": null,
+      "doi": null,
+      "pmid": null,
+      "journal": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "type": "web-article",
+      "url": "https://thedailyeconomy.org/article/there-are-no-natural-resources/",
+      "found_via": "Web search for Simon's argument that natural resources are not natural",
+      "download": null,
+      "status": "read-full",
+      "status_detail": "Same Boudreaux argument, possibly republished — human mind as 'ultimate resource', materials ≠ resources without human innovation",
+      "relevance_level": "HIGH",
+      "relevance": "Reinforces the Simonist interpretation that resources are human-created, not nature-given",
+      "html_filename": null,
+      "crossref_enriched": false
+    },
+    {
+      "id": 5,
+      "title": "A Reply to My Critics",
+      "authors": [
+        "Julian Lincoln Simon"
+      ],
+      "year": null,
+      "doi": null,
+      "pmid": null,
+      "journal": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "type": "web-article",
+      "url": "https://www.juliansimon.com/reply-critics.html",
+      "found_via": "Web search results for Simon's own writings",
+      "download": null,
+      "status": "read-full",
+      "status_detail": "Simon argues: resource stock must be measured by price not quantity; finiteness is not testable; substitutability is increasing, not infinite at any moment; critics distort his positions",
+      "relevance_level": "VERY HIGH",
+      "relevance": "Simon's own words correcting mischaracterizations — key for understanding his actual position vs popular labels",
+      "html_filename": null,
+      "crossref_enriched": false
+    },
+    {
+      "id": 6,
+      "title": "Julian Simon, 'Natural Resources are Infinite'",
+      "authors": [
+        "Julian Lincoln Simon"
+      ],
+      "year": null,
+      "doi": null,
+      "pmid": null,
+      "journal": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "type": "web-extract",
+      "url": "https://hettingern.people.charleston.edu/Environmental_Ethics_Fall_2008/Julian_Simon_Resources_are_Infinite.htm",
+      "found_via": "Web search — appears to be an extract from Simon used in an environmental ethics course",
+      "download": null,
+      "status": "read-full",
+      "status_detail": "Simon argues people create resources; market pricing signals substitution; historical trend of declining real costs",
+      "relevance_level": "HIGH",
+      "relevance": "Simon's own argument in accessible form — relevant to whether he merely claims abundance or redefines what a resource is",
+      "html_filename": null,
+      "crossref_enriched": false
+    }
+  ]
+}
