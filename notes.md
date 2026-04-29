@@ -122,19 +122,22 @@ From Simon's "Reply to Critics" (juliansimon.com):
 > "the stock of a resource as measured by physical quantity must give way
 > to the economic concept of the stock of a resource as measured by its
 > price"
-> (Simon, ["A Reply to My Critics"](https://www.juliansimon.com/reply-critics.html))
+> (Simon, "A Reply to My Critics")
+> [[view in source]](https://www.juliansimon.com/reply-critics.html#:~:text=the%20stock%20of%20a%20resource%20as%20measured%20by%20physical%20quantity%20must%20give%20way,as%20measured%20by%20its%20price)
 
 > "Finiteness by itself is not testable, except insofar as the fact that
 > no one is able to state the absolute size of the relevant system (our
 > cosmos) demonstrates the absence of finiteness in its dictionary sense"
-> (Simon, ["A Reply to My Critics"](https://www.juliansimon.com/reply-critics.html))
+> (Simon, "A Reply to My Critics")
+> [[view in source]](https://www.juliansimon.com/reply-critics.html#:~:text=Finiteness%20by%20itself%20is%20not%20testable,the%20absence%20of%20finiteness%20in%20its%20dictionary%20sense)
 
 He also explicitly corrects a common distortion:
 
 > "I do not say that 'infinite substitutability' is possible now or at
 > any future moment. What I do say is that substitutability is increasing
 > with the passage of time"
-> (Simon, ["A Reply to My Critics"](https://www.juliansimon.com/reply-critics.html))
+> (Simon, "A Reply to My Critics")
+> [[view in source]](https://www.juliansimon.com/reply-critics.html#:~:text=I%20do%20not%20say%20that,substitutability%20is%20increasing%20with%20the%20passage%20of%20time)
 
 ## Open vs. Closed System Thinking
 
